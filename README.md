@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 | ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGarcesIsAlreadyTaken&theme=dark\&show_icons=true\&rank_icon=github) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGarcesIsAlreadyTaken&layout=compact&theme=dark&langs_count=10) |
 |:--:|:--:|
+
+### Here's my [CV](CV_AlexGarces.pdf)
